@@ -22,6 +22,8 @@ All the firmware for the pathfinder was made in Arduino IDE, and the code makes 
 |Amount|Name|Link|
 |--|--|--|
 |1|Seeed Studio XIAO RP2040|https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOooucoT0jSaPG3mNTP54uNadNC0gLL3KItf1njUPdk5071NeNm5W|
+|4|Keycaps|https://www.adafruit.com/product/5737|
+|4|MX Switches|https://mechanicalkeyboards.com/products/cherry-mx2a-blue-60g-clicky|
 |4|Resistors|https://www.digikey.com/en/products/detail/yageo/PNP1WVFTF52-22R/4135164|
 |4|Green LEDs|https://www.digikey.com/en/products/detail/qt-brightek-qtb/QBL8IG60D/9354288|
 
